@@ -10,7 +10,8 @@ public class Compte {
 		this.Numero = numero;
 		this.Solde = solde;
 	}
-
+	
+	//TP6
 	@Override
 	public String toString() {
 		return "Compte [Numero=" + Numero + ", Solde=" + Solde + "]";
