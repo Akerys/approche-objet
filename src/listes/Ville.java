@@ -1,6 +1,6 @@
 package listes;
 
-public class Ville {
+public class Ville implements Comparable<Ville>{
 	private String nom;
 	private int nb;
 	
@@ -27,7 +27,12 @@ public class Ville {
 		return "Ville [nom=" + nom + ", nb=" + nb + "]";
 	}
 
-	
+	@Override
+	public int compareTo(Ville o) {
+		// TODO Auto-generated method stub
+		int result = this.nom.compareToIgnoreCase(o.getNom());
+		return result;
+	}
 	
 }
 

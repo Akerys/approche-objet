@@ -1,6 +1,7 @@
 package listes;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 
 public class TestListeVille {
@@ -38,6 +39,11 @@ public class TestListeVille {
 				villes.get(i).setNom(villes.get(i).getNom().toUpperCase());;
 			}
 		}
+		for(Ville v : villes) {
+			System.out.println(v.toString());
+		}
+		
+		Collections.sort(villes);
 		for(Ville v : villes) {
 			System.out.println(v.toString());
 		}
