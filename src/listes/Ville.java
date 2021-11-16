@@ -30,8 +30,13 @@ public class Ville implements Comparable<Ville>{
 	@Override
 	public int compareTo(Ville o) {
 		// TODO Auto-generated method stub
-		int result = this.nom.compareToIgnoreCase(o.getNom());
-		return result;
+		if (this.nb > o.getNb()){
+			return 1;
+		}
+		if (this.nb < o.getNb()){
+			return -1;
+		}
+		return 0;
 	}
 	
 }
