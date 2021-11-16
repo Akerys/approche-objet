@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
+import tri.ComparatorHabitant;
+import tri.ComparatorNom;
+
 public class TestListeVille {
 
 	public static void main(String[] args) {
@@ -25,7 +28,7 @@ public class TestListeVille {
 				max=villes.get(i).getNb();ville=villes.get(i).getNom();
 			}
 		}
-		System.out.println(ville);
+		System.out.println(ville);System.out.println();
 		int min = villes.get(0).getNb();
 		Ville supp = new Ville("",0);
 		for(int i=0;i<villes.size();i++) {
@@ -41,9 +44,20 @@ public class TestListeVille {
 		}
 		for(Ville v : villes) {
 			System.out.println(v.toString());
-		}
+		}System.out.println();
 		
 		Collections.sort(villes);
+		for(Ville v : villes) {
+			System.out.println(v.toString());
+		}System.out.println();
+		
+		ComparatorHabitant nb = new ComparatorHabitant();
+		villes.sort(nb);
+		for(Ville v : villes) {
+			System.out.println(v.toString());
+		}System.out.println();
+		ComparatorNom nom = new ComparatorNom();
+		villes.sort(nom);
 		for(Ville v : villes) {
 			System.out.println(v.toString());
 		}
