@@ -1,0 +1,366 @@
+Code département;Nom de la commune;Population totale
+01;Bourg-en-Bresse;43 454
+02;Laon;26 031
+02;Saint-Quentin;55 940
+02;Soissons;29 417
+03;Montluçon;37 417
+05;Gap;42 567
+06;Antibes;74 982
+06;Cagnes-sur-Mer;50 385
+06;Cannes;75 046
+06;Le Cannet;42 056
+06;Grasse;51 705
+06;Menton;28 942
+06;Nice;345 998
+06;Saint-Laurent-du-Var;28 831
+06;Vallauris;26 787
+08;Charleville-Mézières;48 420
+10;Troyes;61 988
+11;Carcassonne;47 418
+11;Narbonne;55 001
+12;Rodez;25 747
+13;Aix-en-Provence;146 385
+13;Arles;53 807
+13;Aubagne;45 711
+13;La Ciotat;35 758
+13;Istres;44 248
+13;Marignane;33 949
+13;Marseille;870 018
+13;Martigues;49 310
+13;Miramas;26 217
+13;Salon-de-Provence;46 225
+13;Vitrolles;34 301
+14;Caen;108 461
+15;Aurillac;27 659
+16;Angoulême;44 629
+17;La Rochelle;78 623
+17;Saintes;26 890
+18;Bourges;67 841
+18;Vierzon;27 036
+19;Brive-la-Gaillarde;48 333
+2A;Ajaccio;70 063
+2B;Bastia;45 596
+21;Dijon;159 031
+22;Saint-Brieuc;47 058
+24;Bergerac;28 166
+24;Périgueux;31 505
+25;Besançon;120 107
+25;Montbéliard;26 015
+26;Montélimar;39 924
+26;Romans-sur-Isère;34 095
+26;Valence;64 322
+27;Évreux;51 560
+28;Chartres;40 195
+28;Dreux;31 575
+29;Brest;142 629
+29;Quimper;66 743
+30;Alès;41 129
+30;Nîmes;154 196
+31;Colomiers;39 200
+31;Muret;25 961
+31;Toulouse;482 738
+31;Tournefeuille;27 008
+33;Bègles;28 092
+33;Bordeaux;256 045
+33;Gradignan;26 029
+33;Libourne;25 491
+33;Mérignac;71 203
+33;Pessac;62 737
+33;Saint-Médard-en-Jalles;31 576
+33;Talence;44 040
+33;La Teste-de-Buch;26 525
+33;Villenave-d'Ornon;33 091
+34;Agde;28 120
+34;Béziers;77 894
+34;Lunel;26 263
+34;Montpellier;286 098
+34;Sète;44 271
+35;Rennes;222 104
+35;Saint-Malo;47 528
+36;Châteauroux;45 780
+37;Joué-lès-Tours;37 974
+37;Tours;139 963
+38;Bourgoin-Jallieu;28 399
+38;Échirolles;36 143
+38;Grenoble;160 836
+38;Saint-Martin-d'Hères;38 974
+38;Vienne;30 178
+40;Mont-de-Marsan;31 517
+41;Blois;47 524
+42;Roanne;35 913
+42;Saint-Chamond;35 969
+42;Saint-Étienne;174 298
+44;Nantes;314 611
+44;Orvault;26 618
+44;Rezé;41 808
+44;Saint-Herblain;47 502
+44;Saint-Nazaire;72 295
+44;Saint-Sébastien-sur-Loire;27 591
+45;Orléans;118 102
+47;Agen;34 565
+49;Angers;155 543
+49;Cholet;55 772
+49;Saumur;28 554
+49;Sèvremoine;26 239
+50;Cherbourg-en-Cotentin;82 578
+51;Châlons-en-Champagne;46 288
+51;Reims;187 074
+52;Saint-Dizier;25 666
+53;Laval;52 359
+54;Nancy;106 953
+54;Vandœuvre-lès-Nancy;30 502
+56;Lorient;58 789
+56;Vannes;55 573
+57;Metz;119 856
+57;Thionville;41 396
+58;Nevers;34 799
+59;Armentières;25 373
+59;Cambrai;33 349
+59;Douai;40 860
+59;Dunkerque;89 485
+59;Lambersart;28 027
+59;Lille;236 782
+59;Marcq-en-Barœul;39 697
+59;Maubeuge;29 995
+59;Roubaix;96 953
+59;Tourcoing;98 170
+59;Valenciennes;44 509
+59;Villeneuve-d'Ascq;63 085
+59;Wattrelos;41 570
+60;Beauvais;57 548
+60;Compiègne;41 660
+60;Creil;36 091
+61;Alençon;27 221
+62;Arras;41 973
+62;Béthune;25 753
+62;Boulogne-sur-Mer;42 293
+62;Calais;75 719
+62;Hénin-Beaumont;26 260
+62;Lens;31 080
+62;Liévin;31 337
+63;Clermont-Ferrand;146 112
+64;Anglet;39 995
+64;Bayonne;51 943
+64;Biarritz;25 518
+64;Pau;79 022
+65;Tarbes;41 862
+66;Perpignan;123 602
+67;Haguenau;35 024
+67;Illkirch-Graffenstaden;27 505
+67;Schiltigheim;32 024
+67;Strasbourg;283 515
+68;Colmar;71 445
+68;Mulhouse;110 468
+69;Bron;41 589
+69;Caluire-et-Cuire;43 546
+69;Décines-Charpieu;28 249
+69;Lyon 1er Arrondissement;30 423
+69;Lyon 2e Arrondissement;30 857
+69;Lyon 3e Arrondissement;103 506
+69;Lyon 4e Arrondissement;36 524
+69;Lyon 5e Arrondissement;49 998
+69;Lyon 6e Arrondissement;52 282
+69;Lyon 7e Arrondissement;82 651
+69;Lyon 8e Arrondissement;85 610
+69;Lyon 9e Arrondissement;51 313
+69;Meyzieu;33 351
+69;Oullins;26 838
+69;Rillieux-la-Pape;30 275
+69;Saint-Priest;46 153
+69;Vaulx-en-Velin;48 906
+69;Vénissieux;65 822
+69;Villefranche-sur-Saône;37 783
+69;Villeurbanne;150 375
+71;Chalon-sur-Saône;47 085
+71;Mâcon;34 448
+72;Le Mans;146 804
+73;Aix-les-Bains;30 377
+73;Chambéry;60 872
+74;Annecy;130 257
+74;Annemasse;35 461
+74;Thonon-les-Bains;36 296
+75;Paris;2 210 875
+76;Dieppe;30 588
+76;Le Grand-Quevilly;26 175
+76;Le Havre;172 769
+76;Rouen;112 596
+76;Saint-Étienne-du-Rouvray;29 180
+76;Sotteville-lès-Rouen;29 766
+77;Bussy-Saint-Georges;27 299
+77;Chelles;54 682
+77;Meaux;56 249
+77;Melun;41 183
+77;Pontault-Combault;38 587
+77;Savigny-le-Temple;30 352
+77;Villeparisis;26 507
+78;Chatou;31 653
+78;Le Chesnay;28 558
+78;Conflans-Sainte-Honorine;36 058
+78;Élancourt;25 829
+78;Guyancourt;28 839
+78;Houilles;32 064
+78;Mantes-la-Jolie;44 231
+78;Montigny-le-Bretonneux;33 535
+78;Les Mureaux;32 777
+78;Plaisir;32 128
+78;Poissy;37 524
+78;Rambouillet;26 781
+78;Saint-Germain-en-Laye;41 749
+78;Sartrouville;53 237
+78;Trappes;32 931
+78;Versailles;87 315
+79;Niort;61 044
+80;Amiens;136 998
+81;Albi;51 151
+81;Castres;42 923
+82;Montauban;61 978
+83;Draguignan;40 928
+83;Fréjus;54 023
+83;La Garde;25 645
+83;Hyères;56 799
+83;Saint-Raphaël;35 826
+83;La Seyne-sur-Mer;65 386
+83;Six-Fours-les-Plages;33 904
+83;Toulon;171 643
+84;Avignon;94 200
+84;Carpentras;29 498
+84;Cavaillon;26 985
+84;Orange;29 856
+85;La Roche-sur-Yon;56 991
+86;Châtellerault;32 887
+86;Poitiers;90 590
+87;Limoges;135 140
+88;Épinal;33 454
+89;Auxerre;36 804
+89;Sens;26 688
+90;Belfort;49 926
+91;Athis-Mons;34 065
+91;Brétigny-sur-Orge;26 702
+91;Brunoy;26 520
+91;Corbeil-Essonnes;51 682
+91;Draveil;29 558
+91;Évry;55 425
+91;Grigny;29 118
+91;Massy;50 549
+91;Palaiseau;34 954
+91;Ris-Orangis;29 040
+91;Sainte-Geneviève-des-Bois;36 219
+91;Savigny-sur-Orge;36 677
+91;Les Ulis;25 031
+91;Vigneux-sur-Seine;31 488
+91;Viry-Châtillon;30 962
+91;Yerres;29 132
+92;Antony;62 989
+92;Asnières-sur-Seine;86 678
+92;Bagneux;39 977
+92;Bois-Colombes;28 607
+92;Boulogne-Billancourt;120 943
+92;Châtenay-Malabry;33 413
+92;Châtillon;37 132
+92;Clamart;53 099
+92;Clichy;60 746
+92;Colombes;86 050
+92;Courbevoie;82 351
+92;La Garenne-Colombes;29 503
+92;Gennevilliers;46 939
+92;Issy-les-Moulineaux;69 231
+92;Levallois-Perret;64 028
+92;Malakoff;30 286
+92;Meudon;46 014
+92;Montrouge;49 372
+92;Nanterre;96 321
+92;Neuilly-sur-Seine;61 501
+92;Le Plessis-Robinson;29 192
+92;Puteaux;44 941
+92;Rueil-Malmaison;79 783
+92;Saint-Cloud;30 797
+92;Suresnes;49 145
+92;Vanves;28 148
+93;Aubervilliers;86 533
+93;Aulnay-sous-Bois;85 214
+93;Bagnolet;36 047
+93;Le Blanc-Mesnil;56 346
+93;Bobigny;52 633
+93;Bondy;53 416
+93;Clichy-sous-Bois;29 978
+93;La Courneuve;42 712
+93;Drancy;70 883
+93;Épinay-sur-Seine;55 754
+93;Gagny;39 391
+93;Livry-Gargan;44 721
+93;Montfermeil;26 262
+93;Montreuil;109 235
+93;Neuilly-sur-Marne;34 859
+93;Noisy-le-Grand;67 086
+93;Noisy-le-Sec;43 693
+93;Pantin;55 585
+93;Pierrefitte-sur-Seine;29 728
+93;Romainville;26 640
+93;Rosny-sous-Bois;45 663
+93;Saint-Denis;112 309
+93;Saint-Ouen;49 949
+93;Sevran;50 888
+93;Stains;39 776
+93;Tremblay-en-France;35 866
+93;Villemomble;30 227
+93;Villepinte;36 809
+94;Alfortville;44 136
+94;Cachan;30 524
+94;Champigny-sur-Marne;77 883
+94;Charenton-le-Pont;30 793
+94;Choisy-le-Roi;44 781
+94;Créteil;90 052
+94;Fontenay-sous-Bois;53 968
+94;Fresnes;27 556
+94;L' Haÿ-les-Roses;31 416
+94;Ivry-sur-Seine;61 099
+94;Le Kremlin-Bicêtre;25 422
+94;Limeil-Brévannes;26 901
+94;Maisons-Alfort;55 816
+94;Nogent-sur-Marne;32 195
+94;Le Perreux-sur-Marne;34 017
+94;Saint-Maur-des-Fossés;75 833
+94;Sucy-en-Brie;26 575
+94;Thiais;29 295
+94;Villejuif;55 805
+94;Villeneuve-Saint-Georges;33 135
+94;Villiers-sur-Marne;29 407
+94;Vincennes;50 300
+94;Vitry-sur-Seine;93 317
+95;Argenteuil;112 064
+95;Bezons;29 216
+95;Cergy;64 451
+95;Eaubonne;25 514
+95;Ermont;29 400
+95;Franconville;36 349
+95;Garges-lès-Gonesse;42 821
+95;Gonesse;26 556
+95;Goussainville;31 167
+95;Herblay;29 614
+95;Pontoise;31 880
+95;Sannois;27 118
+95;Sarcelles;58 332
+95;Taverny;26 541
+95;Villiers-le-Bel;27 519
+971;Les Abymes;54 818
+971;Baie-Mahault;31 338
+971;Le Gosier;27 023
+972;Fort-de-France;82 030
+972;Le Lamentin;40 920
+973;Cayenne;60 947
+973;Kourou;26 726
+973;Matoury;32 768
+973;Remire-Montjoly;26 170
+973;Saint-Laurent-du-Maroni;44 130
+974;Le Port;35 141
+974;La Possession;33 337
+974;Saint-André;56 088
+974;Saint-Benoît;38 466
+974;Saint-Denis;149 337
+974;Saint-Joseph;38 167
+974;Saint-Leu;34 160
+974;Saint-Louis;53 832
+974;Saint-Paul;106 920
+974;Saint-Pierre;85 059
+974;Sainte-Marie;33 587
+974;Le Tampon;78 366
